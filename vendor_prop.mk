@@ -96,8 +96,9 @@ debug.sf.recomputecrop=0 \
 ro.opengles.version=196610 \
 ro.qualcomm.cabl=0 \
 ro.qualcomm.svi=0 \
-ro.sf.lcd_density=320 \
+ro.sf.lcd_density=275 \
 persist.debug.wfd.enable=1 \
+persist.sys.wfd.virtual=0
 persist.hwc.enable_vds=1
 
 # DRM
